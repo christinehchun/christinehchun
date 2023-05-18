@@ -2,7 +2,7 @@
 
 
 ###
-- I'm currently a grad student at Columbia University GSAS '23
+- I'm a recent graduate from Columbia University GSAS
 - Hit me up to discuss: data ethics, gender + racial bias, Game of Thrones
 - Currently working on the Memorial Sloan Kettering Cancer Project 
 - I’m currently brushing up on coding skills like Python and R
